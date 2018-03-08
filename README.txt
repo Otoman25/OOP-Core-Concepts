@@ -1,0 +1,1 @@
+Open this folder using "Open Project" in Netbeans, inside each package will be a file named main which will contain the application code for each example.
